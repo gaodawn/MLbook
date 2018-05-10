@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Mar 20 12:21:18 2018
-
+calculate all kinds of distances
 @author: gaodawn
 """
 
@@ -10,8 +10,6 @@ import os
 import time
 from numpy import *
 import scipy.spatial.distance as dist
-
-# 配置utf-8输出环境
 
 
 vector1 = mat([1,2,3])
